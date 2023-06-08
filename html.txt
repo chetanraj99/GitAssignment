@@ -1,0 +1,4 @@
+while True:
+	print("eating")
+	print("coding")
+	print("sleeping")
